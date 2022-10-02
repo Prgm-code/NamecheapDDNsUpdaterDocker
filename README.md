@@ -3,4 +3,7 @@
 ## FOR DOCKER
 
 Just replace Domain [YOUR.DOMAIN} and Password [YOUR_DYNAMIC_PASSWORD] in file index.js
+
 Remember to use dynamic Password , not the account Password.
+
+https://www.namecheap.com/support/knowledgebase/article.aspx/36/11/how-do-i-start-using-dynamic-dns/
