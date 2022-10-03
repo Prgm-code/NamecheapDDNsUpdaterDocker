@@ -1,4 +1,4 @@
-## auto updater para A + Dynamic DNS Record namecheap ###
+## auto updater for A + Dynamic DNS Record namecheap ###
 
 ## FOR DOCKER
 
