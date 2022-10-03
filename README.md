@@ -15,4 +15,4 @@ Remember to use dynamic Password , not the account Password.
 https://www.namecheap.com/support/knowledgebase/article.aspx/36/11/how-do-i-start-using-dynamic-dns/
 
 run whith 
-docker biuld -t [DDNS] .
+docker biuld -t DDNS .
