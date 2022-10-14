@@ -4,7 +4,7 @@
 
 must crate a .env file and set:
 
-YOUR_DOMAIN="your.domanin"
+YOUR_DOMAIN="your.domain"
 
 YOUR_DYNAMIC_PASSWORD="XXXXXXXXXXXXXXXXXXXXXXXXXX" 
 
@@ -14,5 +14,5 @@ Remember to use dynamic Password , not the account Password.
 
 https://www.namecheap.com/support/knowledgebase/article.aspx/36/11/how-do-i-start-using-dynamic-dns/
 
-run whith 
+make image whith 
 docker biuld -t DDNS .
