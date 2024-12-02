@@ -4,9 +4,12 @@
 
 must crate a .env file and set:
 
+YOUR_HOST="www" or "*"
+
 YOUR_DOMAIN="your.domain"
 
 YOUR_DYNAMIC_PASSWORD="XXXXXXXXXXXXXXXXXXXXXXXXXX" 
+
 
 YOUR_UPDATE_INTERVAL="10" # in minutes
 
